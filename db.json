@@ -1,6 +1,5 @@
 {
-	"systems": {
-		"adb0c8bd-0ae7-42ef-9ee9-e6907639ef16":[
+	"systems/adb0c8bd-0ae7-42ef-9ee9-e6907639ef16": [
 		{
 			"Description": "Order 1",
 			"WorkItems": [
@@ -48,5 +47,4 @@
 			]
 		}
 	]
-	}
 }
